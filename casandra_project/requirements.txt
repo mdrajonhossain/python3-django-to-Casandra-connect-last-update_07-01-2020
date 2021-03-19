@@ -3,7 +3,7 @@ asgiref==3.2.3
 cassandra-driver==3.19.0
 cassandra-migrate==0.1.2
 Click==7.0
-Django==2.2.9
+Django==2.2.18
 django-cassandra-engine==1.5.5
 future==0.18.2
 python-dateutil==2.8.1
